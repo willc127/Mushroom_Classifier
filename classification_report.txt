@@ -1,0 +1,8 @@
+              precision    recall  f1-score   support
+
+      edible       0.97      1.00      0.98      2110
+   poisonous       1.00      0.97      0.98      1952
+
+    accuracy                           0.98      4062
+   macro avg       0.99      0.98      0.98      4062
+weighted avg       0.98      0.98      0.98      4062
